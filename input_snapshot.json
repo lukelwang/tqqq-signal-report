@@ -34,13 +34,13 @@
     }
   },
   "decision_attestation": {
-    "decision_fingerprint": "1f96dc2eda55cfca3d10487aa21d3eab481d310ebfe440fa4a53b3b89c18b7bd",
+    "decision_fingerprint": "ea6ca034e58bf6119f22bdce4d598029a4f6ff28835a907c342ef46307f81160",
     "effective_session": "2026-08-21",
     "input_snapshot_fingerprint": "96d774c84973c607532c60b50f6d366fab533b64d748746e18240b5a5b0f8df9",
-    "model_fingerprint": "5522fc223430c52db9100dbe59dfa36fe22fcc5d5167452e0528735d99e22289",
+    "model_fingerprint": "e97ffe4ea00efc69a31961c2629cf15600bdecfc39129036f26af91d3fc3cd16",
     "model_version": "8.1.0"
   },
-  "generated_at": "2026-08-23T12:40:12.874167+00:00",
+  "generated_at": "2026-08-23T18:03:02.742995+00:00",
   "input_snapshot": {
     "files": {
       "GLD": "bbe70a62791bfffc4d498cac47a5c0f62fe35cafa89709ea4c8597896dd49c2d",
