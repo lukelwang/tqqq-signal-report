@@ -36,17 +36,17 @@
   "decision_attestation": {
     "decision_fingerprint": "dac4788e3c009ef706f884fcc1e1bde6d5cfb11612ee48ca1822438c54d659bd",
     "effective_session": "2026-09-01",
-    "input_snapshot_fingerprint": "0104671b9a5f1dc493c5cc9723f9c6539443548f13a248bf7ac628d521966a29",
+    "input_snapshot_fingerprint": "32a516553dc9a7e46f3b579ac2918901aaea5f43b612f2bf1074b1d0a2505d99",
     "model_fingerprint": "b2e9f9fcaaee577559b9be40be1c8a28fcb5f7c0f150133e9b0d88ca62a31df0",
     "model_version": "8.1.0"
   },
-  "generated_at": "2026-09-01T20:35:17.998407+00:00",
+  "generated_at": "2026-09-01T20:40:17.414693+00:00",
   "input_snapshot": {
     "files": {
       "GLD": "4cf2cd8f72e625baf59ad029160d216eb14bbefa48875e99457de420a0d8b7e5",
       "HIGQ": "ec3d40494490a15b2a7c55b3926c01e5a739d49f36e99e493c2bfef5a8f5b3c6",
-      "HYG": "7bf70f2cb647beb69d1339d72227f0b293ab043d412c9c6798d98395d149a35e",
-      "IEF": "c77ba160e2f0da39127fd7a3bf71637c61961b51de716bf1e36d4ecb61b6590a",
+      "HYG": "647d31534684f12ae44d736cabdea67b10c05aef86eb2228d9370dba74543eea",
+      "IEF": "f55cd2c922c17c22db29129fc13b26d260f25d82c7a585605bf8ea883b0cc35a",
       "IWM": null,
       "LOWQ": "07d233b4a237be50cbfdd6997a9962787c6b0f27b4cbb67aab1b57284bc6b779",
       "MOVE": null,
@@ -58,14 +58,14 @@
       "UUP": null,
       "VIX": "3a6eb21f46e3ef59c3215cb43bd5a4bb5ed8e512c88ff52b4ded206422c05d69",
       "VIX9D": "1d9fa585c00210ddb4da93b6efd17161c17a516f68c9ee41d09ecb305cb760b3",
-      "XLP": "8728e6d4233d305a0c9aece2cf6133809243af705f4276c7282cb70530eb89d4",
-      "XLY": "d82adbb2c200af88314bdd16db730846bfde213162947d037b878cc66264d1b2"
+      "XLP": "43994594bc3ff69480f7ee4be6dc4f4fad551d19f0633cffb7a444544545441f",
+      "XLY": "d4ac34180435679ed3848471cfc3e727d0baa58db8ea93f87a04e79bd99ef805"
     },
-    "files_fingerprint": "fdef3b0c07bd175bdefd6a56309dec1e9ed87e1d8fbdc0a71bdc3f572711021f",
-    "fingerprint": "0104671b9a5f1dc493c5cc9723f9c6539443548f13a248bf7ac628d521966a29",
-    "manifest_sha256": "ff0fce0c5a87e58eec50e37b3a752bc7403a02159a7f881aeb49f13948a831fd"
+    "files_fingerprint": "0a18d1d7bc2c335f1995900a0c53ee2253ced433a7beb75ac2531206446d50ae",
+    "fingerprint": "32a516553dc9a7e46f3b579ac2918901aaea5f43b612f2bf1074b1d0a2505d99",
+    "manifest_sha256": "a3987892e62f0aaea56492d819dbff421570a3b6b9593ba47082ee2867b1b78b"
   },
-  "reconciliation_fingerprint": "bff6bb258a92db3052b472b154de3df3edce5eb56e3ff48e914ff8936323d4d1",
+  "reconciliation_fingerprint": "463e3a16e83a5387ac3bfb15fd1915d598a4e6d267275802dad9e476eb40f17c",
   "repository": "lukelwang/tqqq-signal",
   "schema_version": 1
 }
