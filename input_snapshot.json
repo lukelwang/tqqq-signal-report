@@ -1,71 +1,71 @@
 {
   "calendar": {
-    "completed_session": "2026-09-01",
+    "completed_session": "2026-09-02",
     "fail_closed": true,
     "implementation_sha256": "84310f3f05a4dca086a1280c2ca74eaf14ca97e74f443d1ef940029e7bd68625",
     "source": "tqqq_signal.market_calendar:1990-2100"
   },
-  "completed_through": "2026-09-01",
+  "completed_through": "2026-09-02",
   "contract_version": "8.1.0",
   "core_tapes": {
     "QQQ": {
       "first_session": "1999-03-10",
-      "last_session": "2026-09-01",
-      "parquet_sha256": "ec5019ac8b13dea305e2ed2780ec80b99bbddcf6b46d735d188fdd50622d28f1",
-      "rows": 6913
+      "last_session": "2026-09-02",
+      "parquet_sha256": "2dcbc33941f28c6ec1ff91bdef1dd7ac916cb59a1f6a770fb723877eb4107308",
+      "rows": 6914
     },
     "TQQQ": {
       "first_session": "2010-02-11",
-      "last_session": "2026-09-01",
-      "parquet_sha256": "56414a4420c5b697eba32f55d3b991c17227896e49a2e0cdf2e54d2ed476efc0",
-      "rows": 4164
+      "last_session": "2026-09-02",
+      "parquet_sha256": "b949ed3d71520ac5d1e22a4c8d4f9021640ac3e0760fe2df0b18aa8afed25e9e",
+      "rows": 4165
     },
     "TQQQ_SIM": {
       "annual_drag": 0.054533084737419024,
       "construction_version": "frozen_pre_inception_v1",
       "first_session": "1999-03-10",
-      "last_session": "2026-09-01",
-      "parquet_sha256": "22eb9b1aa66a9ea992e8e8a6c8a794d6cf2e23612ec210776639c3113d8dabbe",
+      "last_session": "2026-09-02",
+      "parquet_sha256": "d7453bb646557de57e985e940b4fcc800ed171e4690a00d92f8e041c54b7c317",
       "real_tqqq_start": "2010-02-11",
-      "rows": 6913,
+      "rows": 6914,
       "synthetic_prefix_sha256": "0bf0ea056ce9d03fdbdc37e0ee110a89f0d5b2deb3b0554e23f527c51f9c7a01",
       "synthetic_rows": 2749,
       "synthetic_through": "2010-02-10"
     }
   },
   "decision_attestation": {
-    "decision_fingerprint": "dac4788e3c009ef706f884fcc1e1bde6d5cfb11612ee48ca1822438c54d659bd",
-    "effective_session": "2026-09-01",
-    "input_snapshot_fingerprint": "75c99227183e0e8c23a0e1e1470e11e2e88196099872513acf915e5475d1e74c",
+    "decision_fingerprint": "7ac2645521820cf8f75e53238e69c2b67d2e88c4cd6336cd66dbd7abceddbd6a",
+    "effective_session": "2026-09-02",
+    "input_snapshot_fingerprint": "bb728eb931f16034ab0f5e5f545db955239320b2b70f23417414786a423cb856",
     "model_fingerprint": "b2e9f9fcaaee577559b9be40be1c8a28fcb5f7c0f150133e9b0d88ca62a31df0",
     "model_version": "8.1.0"
   },
-  "generated_at": "2026-09-01T20:50:17.164126+00:00",
+  "generated_at": "2026-09-02T20:35:18.380460+00:00",
   "input_snapshot": {
     "files": {
-      "GLD": "4cf2cd8f72e625baf59ad029160d216eb14bbefa48875e99457de420a0d8b7e5",
+      "GLD": "c2bdb30e6ac916dcdca51271d13bd2f57e70f83747893240b4d615a46858e824",
       "HIGQ": "ec3d40494490a15b2a7c55b3926c01e5a739d49f36e99e493c2bfef5a8f5b3c6",
-      "HYG": "ac8b7d3dc16716c7fc5a6b426053a61f1c2a6776ee916cdd654db6fb84b81b0b",
-      "IEF": "c7b28b49159e336c63d0aaab92faee8c3a41d07d7d834f8e2718044f089f072c",
+      "HYG": "e09c43bd4192ad2c6acce567435a890ad374f5feb57c89ffb752a2d808e39d42",
+      "IEF": "e3d5f945bb601707e1fbf75a21c4b15376466ed19f5e01941f7b8953fa3bce58",
       "IWM": null,
       "LOWQ": "07d233b4a237be50cbfdd6997a9962787c6b0f27b4cbb67aab1b57284bc6b779",
       "MOVE": null,
-      "QQQ": "ec5019ac8b13dea305e2ed2780ec80b99bbddcf6b46d735d188fdd50622d28f1",
+      "QQQ": "2dcbc33941f28c6ec1ff91bdef1dd7ac916cb59a1f6a770fb723877eb4107308",
       "SKEW": null,
       "SPY": null,
-      "TQQQ": "56414a4420c5b697eba32f55d3b991c17227896e49a2e0cdf2e54d2ed476efc0",
-      "TQQQ_SIM": "22eb9b1aa66a9ea992e8e8a6c8a794d6cf2e23612ec210776639c3113d8dabbe",
+      "TQQQ": "b949ed3d71520ac5d1e22a4c8d4f9021640ac3e0760fe2df0b18aa8afed25e9e",
+      "TQQQ_SIM": "d7453bb646557de57e985e940b4fcc800ed171e4690a00d92f8e041c54b7c317",
       "UUP": null,
-      "VIX": "3a6eb21f46e3ef59c3215cb43bd5a4bb5ed8e512c88ff52b4ded206422c05d69",
-      "VIX9D": "1d9fa585c00210ddb4da93b6efd17161c17a516f68c9ee41d09ecb305cb760b3",
-      "XLP": "96630ed431650c3bf6f8712f5dfff12db308928e229fb914b653de79c1d201b4",
-      "XLY": "03f846ed11ba9d5a1087ef366fc06d3471ecc9d761c57705feea1db9f6c99f76"
+      "VIX": "c8641bc03cd33dcbd1c4594af33e3ab74fb926f86e577b7c9ec08416ed143e0f",
+      "VIX9D": "db34a1fd9c8101c676d758e7e307bbd40530b073e3e9bab5a05f49f407e65ffd",
+      "XLP": "ffa74e6954e2af27d264d6e77f94c939c706ce1c60db2c6c66e88d25a0820c73",
+      "XLY": "07bdbcfa04fb52213e98d68a51b1bbbb2c2ab3148c00be0a55986e3e32dd0b57"
     },
-    "files_fingerprint": "622dbd133aae90199efb5c004318f77a5e03fcadf23526c4234bf378fbae55a6",
-    "fingerprint": "75c99227183e0e8c23a0e1e1470e11e2e88196099872513acf915e5475d1e74c",
-    "manifest_sha256": "d381a8ccee767b164989dfebc36784a7a51f7705da05ca893ff4d1d295da2dc4"
+    "files_fingerprint": "b06c29e82eaefdfc69c219c3d40de073772b07c5c6f6ffbda12e21ada844f7cd",
+    "fingerprint": "bb728eb931f16034ab0f5e5f545db955239320b2b70f23417414786a423cb856",
+    "manifest_sha256": "1ec17faea21f6dc7f8a4967b1bd0a7307b23b6c5e4455055e8c0431f2fd58ba5"
   },
-  "reconciliation_fingerprint": "a940bee0660a038de95e9cf9b7186c9733713ed1a91deb7e07bf6768f1593080",
+  "reconciliation_fingerprint": "03974400337f78119f2281f87930c93058bf14da828cb9bef57e0322b70ef84b",
   "repository": "lukelwang/tqqq-signal",
   "schema_version": 1
 }
