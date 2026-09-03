@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "decision_session": "2026-09-02",
+  "execution_session": "2026-09-03",
+  "generated_at": "2026-09-03T06:31:01.901426-07:00",
+  "input_snapshot_fingerprint": "f073178c808fc99bb7ab0744ef375e5d01ec64e9fd4a9727b53368bffe76df93",
+  "model_fingerprint": "b2e9f9fcaaee577559b9be40be1c8a28fcb5f7c0f150133e9b0d88ca62a31df0",
+  "model_version": "8.1.0",
+  "morning_fingerprint": "9a4c447d8186b6cd09ec19c599254cca48c056930a6e2e793b100f9e61231f64",
+  "opening_snapshot_fingerprint": "9784ff743fc579d9fbd7f187cda0e1cbe850f51476291f88078d256addaad378",
+  "published_cadence": "morning",
+  "repository": "lukelwang/tqqq-signal",
+  "schema_version": 1,
+  "source_daily_decision_fingerprint": "7ac2645521820cf8f75e53238e69c2b67d2e88c4cd6336cd66dbd7abceddbd6a",
+  "source_daily_report_fingerprint": "584a6689f2b6bb48f0e4cf0e3f8a5afa0cd4c7f2d4ee27f63bb51d6d411fe537"
+}
